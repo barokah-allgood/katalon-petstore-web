@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menguji login berhasil menggunakan kredensial dari Global Variables.</description>
+   <name>TC01_Successful_Login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6fe54a01-da68-4eb7-b085-5c3c43878e07</testCaseGuid>
+</TestCaseEntity>

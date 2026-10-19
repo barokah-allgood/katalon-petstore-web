@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_positif_manual</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>867b09d6-a1ac-4cf2-8d14-29b1465d6a9d</testCaseGuid>
+</TestCaseEntity>

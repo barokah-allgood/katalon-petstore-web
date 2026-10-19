@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pencarian kategori produk kucing.</description>
+   <name>TC05_Search_Cats</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>babb7a98-6dfc-4583-ad0a-23e3908ee2ba</testCaseGuid>
+</TestCaseEntity>
